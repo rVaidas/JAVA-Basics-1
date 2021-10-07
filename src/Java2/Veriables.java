@@ -21,8 +21,8 @@ public class Veriables {
 //        galima ir 5d ir 5.
         System.out.println(geresnisNesveikasSkaicius);
 
-        String tekstas = "Cia yra musu tekstas";
-        String tekstas2 = "Kitas musu tekstas";
+        String tekstas = "Cia yra musu tekstas.txt";
+        String tekstas2 = "Kitas musu tekstas.txt";
         System.out.println(tekstas + tekstas2);
         System.out.println(nesveikasSkaicius + geresnisNesveikasSkaicius + tekstas + tekstas2);
         System.out.println(tekstas + tekstas2 + nesveikasSkaicius + geresnisNesveikasSkaicius);
