@@ -1,0 +1,5 @@
+2 - lyginis
+5 - nelyginis
+9999 - nelyginis
+32 - lyginis
+55 - nelyginis
